@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jianing Chen"
-description              : "A personal homepage of Jianing Chen"
+description              : "🔬 Researching 3DV, VLM \n🎮 Enjoying games & anime"
 repository               : "EchoPickle/EchoPickle.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,10 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "JianingChen (陈佳宁)"
   avatar           : "images/photo-512x512.png"
-  bio              : |
-     🎓 CS @ ICT
-     🔬 Researching 3DV, VLM
-     🎮 Enjoying games & anime
+  bio              : "🎓 CS @ ICT"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
