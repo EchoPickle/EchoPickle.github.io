@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "Jianing Chen"
-description              : "🔬 Researching 3DV, VLM \n🎮 Enjoying games & anime"
+description              : "🔬 Researching 3DV, VLM \n🎮 Enjoying games, anime"
 repository               : "EchoPickle/EchoPickle.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/

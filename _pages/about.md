@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm a CS Master's student at the <a href='https://www.ict.ac.cn/'>Institute of Computing Technology, Chinese Academy of Sciences</a> (ICT, CAS), supervised by <a href='https://people.ucas.ac.cn/~jiangh'>Prof. Hao Jiang</a> and <a href='https://people.ucas.ac.cn/~zhangyucheng'>Prof. Yucheng Zhang</a>. I'm also fortunate to work closely with <a href='https://vanoracai.github.io/'>Prof. Yujun Cai</a>. My research interest includes <strong>3D Vision</strong> and <strong>Vison-Language Models</strong>. I have published 1 papers <a href='https://scholar.google.com/citations?user=5LrKbhcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences (NeurIPS).
+Hi! I'm a CS Master's student at the <a href='https://www.ict.ac.cn/'>Institute of Computing Technology, Chinese Academy of Sciences</a> (ICT, CAS), supervised by <a href='https://people.ucas.ac.cn/~jiangh'>Prof. Hao Jiang</a> and <a href='https://people.ucas.ac.cn/~zhangyucheng'>Prof. Yucheng Zhang</a>. I'm also fortunate to work closely with <a href='https://vanoracai.github.io/'>Prof. Yujun Cai</a>. My research interest includes <strong>3D Vision</strong> and <strong>Vison-Language Models</strong>. I have published 1 papers <a href='https://scholar.google.com/citations?user=5LrKbhcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS.
 
 
 
