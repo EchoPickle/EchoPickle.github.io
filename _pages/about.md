@@ -17,39 +17,41 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a CS Master's student at the <a href='https://www.ict.ac.cn/'>Institute of Computing Technology, Chinese Academy of Sciences</a> (ICT, CAS).
-
-My research interest includes <strong>3D Vision</strong> and <strong>VLM</strong>. I have published 0 papers <a href='https://scholar.google.com/citations?user=5LrKbhcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences.
+Hi! I'm a CS Master's student at the <a href='https://www.ict.ac.cn/'>Institute of Computing Technology, Chinese Academy of Sciences</a> (ICT, CAS), supervised by <a href='https://people.ucas.ac.cn/~jiangh'>Prof. Hao Jiang</a> and <a href='https://people.ucas.ac.cn/~zhangyucheng'>Prof. Yucheng Zhang</a>. I'm also fortunate to work closely with <a href='https://vanoracai.github.io/'>Prof. Yujun Cai</a>. My research interest includes <strong>3D Vision</strong> and <strong>Vison-Language Models</strong>. I have published 1 papers <a href='https://scholar.google.com/citations?user=5LrKbhcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences (NeurIPS).
 
 
-# 🔥 News
-- *2025.04*: &nbsp;🎉🎉 Start my homepage! 
 
+# 📣 News
+<!-- - 2025.09: &nbsp;🎉🎉 Start my homepage!  -->
+- **[2025.09]** **<span style="color: #f5a13d;">NeurIPS'25</span>**&nbsp;&nbsp;Our paper, "<a href='https://arxiv.org/pdf/2506.09518'>HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene</a>," was accepted to NeurIPS 2025!
+- **[2025.06]** **<span style="color: #8a3684;">Preprint</span>**&nbsp;&nbsp;Our new work on dynamic 3D reconstruction, "<a href='https://arxiv.org/pdf/2505.22400'>STDR: Spatio-Temporal Decoupling for Real-Time Dynamic Scene Rendering</a>," is now available on arXiv.
 
-# 📝 Publications 
+# 📑 Publications 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/HAIF_GS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene](https://arxiv.org/pdf/2506.09518)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Jianing Chen**, Zehao Li, Yujun Cai, Hao Jiang, Chengxuan Qian, Juyuan Kang, Shuqin Gao, Honglong Zhao, Tianlu Mao, Yucheng Zhang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[<a href='https://arxiv.org/pdf/2506.09518'>paper</a>] [<a href='https://arxiv.org/abs/2506.09518'>arXiv</a>] [<a href='https://arxiv.org/abs/2506.09518'>page</a>]
+<!-- [**Project**](https://arxiv.org/abs/2506.09518) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+
+
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📖 Educations
-- *2023.09 - 2026.06 (now)*, <span style="color: rgb(240, 166, 179);">Master</span>, Institute of Computing Technology, Chinese Academy of Sciences, Beijing. 
-- *2019.09 - 2023.06*, <span style="color: rgb(240, 166, 179);">Undergraduate</span>, China University of Geosciences (Beijing), Beijing.
-- *2016.09 - 2019.06*, Ningbo Xiaoshi High School, Ningbo, Zhejiang.
+# 🎓 Educations
+- 2023.09 - 2026.06 (now), **<span style="color: #b7282e;">Master</span>**, Institute of Computing Technology, Chinese Academy of Sciences, Beijing. 
+- 2019.09 - 2023.06, **<span style="color: #f5a13d;">Undergraduate</span>**, China University of Geosciences (Beijing), Beijing.
+- 2016.09 - 2019.06, Ningbo Xiaoshi High School, Ningbo, Zhejiang.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
