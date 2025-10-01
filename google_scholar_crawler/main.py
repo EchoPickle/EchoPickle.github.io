@@ -3,7 +3,7 @@ import jsonpickle
 import json
 from datetime import datetime
 import os
-print("DEBUG: script started")
+print("DEBUG: script started!")
 scholar_id = os.environ.get('GOOGLE_SCHOLAR_ID')
 print("DEBUG: GOOGLE_SCHOLAR_ID =", scholar_id)
 
