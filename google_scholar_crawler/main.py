@@ -10,7 +10,7 @@ try:
     print("正在查找作者信息...")
     # Setup proxy
     pg = ProxyGenerator()
-    pg.FreeProxies()  # Use free rotating proxies
+    pg.FreeProxies(repeat=5)  # Use free rotating proxies
     scholarly.use_proxy(pg)
     print("DEBUG: script started!")
     scholar_id = os.environ.get('GOOGLE_SCHOLAR_ID')
