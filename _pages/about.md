@@ -23,6 +23,7 @@ Hi! I'm a CS Master's student at the <a href='https://www.ict.ac.cn/'>Institute 
 
 # 📣 News
 <!-- - 2025.09: &nbsp;🎉🎉 Start my homepage!  -->
+- **[2025.10]** **<span style="color: #8a3684;">Preprint</span>**&nbsp;&nbsp;Our new work on dynamic 3DGS using VFMs, "<a href='https://arxiv.org/pdf/2510.02732'>From Tokens to Nodes: Semantic-Guided Motion Control for Dynamic 3D Gaussian Splatting</a>," is now available on arXiv.
 - **[2025.09]** **<span style="color: #f5a13d;">NeurIPS'25</span>**&nbsp;&nbsp;Our paper, "<a href='https://arxiv.org/pdf/2506.09518'>HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene</a>," was accepted to NeurIPS 2025!
 - **[2025.06]** **<span style="color: #8a3684;">Preprint</span>**&nbsp;&nbsp;Our new work on dynamic 3D reconstruction, "<a href='https://arxiv.org/pdf/2505.22400'>STDR: Spatio-Temporal Decoupling for Real-Time Dynamic Scene Rendering</a>," is now available on arXiv.
 
