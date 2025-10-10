@@ -37,7 +37,7 @@ Hi! I'm a CS Master's student at the <a href='https://www.ict.ac.cn/'>Institute 
 <div class='paper-box-text' markdown="1">
 **<a href='https://arxiv.org/pdf/2506.09518' style="color: #262626; text-decoration: none;">HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene</a>**
 
-**Jianing Chen**, <a href='https://scholar.google.com/citations?user=ZTxkDr4AAAAJ&hl=en'>Zehao Li</a>, <a href='https://scholar.google.com/citations?user=TE7lbQwAAAAJ&hl=en'>Yujun Cai</a>, Hao Jiang, <a href='https://scholar.google.com/citations?user=DZDZXtwAAAAJ&hl=zh-CN'>Chengxuan Qian</a>, Juyuan Kang, Shuqin Gao, Honglong Zhao, Tianlu Mao, Yucheng Zhang
+**Jianing Chen**, <a href='https://scholar.google.com/citations?user=ZTxkDr4AAAAJ&hl=en'>Zehao Li</a>, <a href='https://scholar.google.com/citations?user=TE7lbQwAAAAJ&hl=en'>Yujun Cai</a>, Hao Jiang, Chengxuan Qian, Juyuan Kang, Shuqin Gao, Honglong Zhao, Tianlu Mao, Yucheng Zhang
 
 [<a href='https://arxiv.org/pdf/2506.09518'>paper</a>] [<a href='https://arxiv.org/abs/2506.09518'>arXiv</a>] [<a href='https://arxiv.org/abs/2506.09518'>page</a>]
 </div>
@@ -105,10 +105,20 @@ Hi! I'm a CS Master's student at the <a href='https://www.ict.ac.cn/'>Institute 
 </div>
 </div> -->
 
-<div style="text-align:center;">
+<!-- <div style="text-align:center;">
   <div style="display:inline-block; transform:scale(0.5); transform-origin:center center;">
     <script type="text/javascript" id="clustrmaps"
       src="//clustrmaps.com/map_v2.js?d=wtj1UfeAzDOm5LDbzaT_JEjsvSbcsmVjNP6ywgF9joE&cl=ffffff&w=a">
     </script>
   </div>
+</div> -->
+
+<hr>
+<div>
+<center>
+  <b>Site Analytics</b><br>
+  <script type="text/javascript" id="clustrmaps"
+    src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=180&t=tt&d=wtj1UfeAzDOm5LDbzaT_JEjsvSbcsmVjNP6ywgF9joE&co=2c3e50">
+  </script>
+</center>
 </div>
