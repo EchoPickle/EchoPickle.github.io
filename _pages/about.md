@@ -31,20 +31,32 @@ Hi! I'm a CS Master's student at the <a href='https://www.ict.ac.cn/'>Institute 
 
 # 📑 Publications 
 
+<!-- Paper1 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/HAIF_GS.jpg' alt="sym" width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
+**<a href='https://arxiv.org/pdf/2506.09518' style="color: #262626; text-decoration: none;">HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene</a>**
 
-[HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene](https://arxiv.org/pdf/2506.09518)
-
-**Jianing Chen**, Zehao Li, Yujun Cai, Hao Jiang, Chengxuan Qian, Juyuan Kang, Shuqin Gao, Honglong Zhao, Tianlu Mao, Yucheng Zhang
+**Jianing Chen**, <a href='https://scholar.google.com/citations?user=ZTxkDr4AAAAJ&hl=en'>Zehao Li</a>, <a href='https://scholar.google.com/citations?user=TE7lbQwAAAAJ&hl=en'>Yujun Cai</a>, Hao Jiang, Chengxuan Qian, Juyuan Kang, Shuqin Gao, Honglong Zhao, Tianlu Mao, Yucheng Zhang
 
 [<a href='https://arxiv.org/pdf/2506.09518'>paper</a>] [<a href='https://arxiv.org/abs/2506.09518'>arXiv</a>] [<a href='https://arxiv.org/abs/2506.09518'>page</a>]
+</div>
+
+<!-- Paper2 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/F2N.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<a href='https://arxiv.org/pdf/2510.02732' style="color: #262626; text-decoration: none;">From Tokens to Nodes: Semantic-Guided Motion Control for Dynamic 3D Gaussian Splatting</a>**
+
+**Jianing Chen**\*, Zehao Li\*, Yujun Cai, Hao Jiang, Shuqin Gao, Honglong Zhao, Tianlu Mao, Yucheng Zhang
+
+[<a href='https://arxiv.org/pdf/2510.02732'>paper</a>] [<a href='https://arxiv.org/abs/2510.02732'>arXiv</a>] 
+<!-- [<a href='https://arxiv.org/abs/2506.09518'>page</a>] -->
+
 <!-- [**Project**](https://arxiv.org/abs/2506.09518) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
-
-
 </div>
-</div>
+
 
 
 <!-- # 🎖 Honors and Awards
@@ -62,3 +74,5 @@ Hi! I'm a CS Master's student at the <a href='https://www.ict.ac.cn/'>Institute 
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=wtj1UfeAzDOm5LDbzaT_JEjsvSbcsmVjNP6ywgF9joE&cl=ffffff&w=a"></script>
