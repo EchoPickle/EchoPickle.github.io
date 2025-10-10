@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! I'm a CS Master's student at the <a href='https://www.ict.ac.cn/'>Institute of Computing Technology, Chinese Academy of Sciences</a> (<img src="images/ict_logo.png" style="width:1em;height:1em;vertical-align:middle;">&nbsp;ICT, CAS), supervised by <a href='https://people.ucas.ac.cn/~jiangh'>Prof. Hao Jiang</a> and <a href='https://people.ucas.ac.cn/~zhangyucheng'>Prof. Yucheng Zhang</a>. I'm also fortunate to work closely with <a href='https://vanoracai.github.io/'>Prof. Yujun Cai</a>. My research interest includes <strong>3D Vision</strong> and <strong>Vision-Language Models</strong>. I have published 1 papers <a href='https://scholar.google.com/citations?user=5LrKbhcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS.
 
-<span style="color: #8a3684;">I'm currently seeking a CS PhD position for Fall 2026. Please refer to my **<a href='https://drive.google.com/file/d/1PKl8xc7WBZKxLKTXov9Dwe9utPO-4R_6/view?usp=drive_link' style="color: #f5a13d; text-decoration: none;">CV</a>** for more details. ^_^</span>
+<span style="color: #8a3684;">I'm currently seeking a CS PhD position for Fall 2026. Please refer to my **<a href='https://drive.google.com/file/d/1PKl8xc7WBZKxLKTXov9Dwe9utPO-4R_6/view?usp=drive_link' style="color: #f5a13d; text-decoration: underline;">CV</a>** for more details.</span>
 
 
 
@@ -37,7 +37,7 @@ Hi! I'm a CS Master's student at the <a href='https://www.ict.ac.cn/'>Institute 
 <div class='paper-box-text' markdown="1">
 **<a href='https://arxiv.org/pdf/2506.09518' style="color: #262626; text-decoration: none;">HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene</a>**
 
-**Jianing Chen**, <a href='https://scholar.google.com/citations?user=ZTxkDr4AAAAJ&hl=en'>Zehao Li</a>, <a href='https://scholar.google.com/citations?user=TE7lbQwAAAAJ&hl=en'>Yujun Cai</a>, Hao Jiang, Chengxuan Qian, Juyuan Kang, Shuqin Gao, Honglong Zhao, Tianlu Mao, Yucheng Zhang
+**Jianing Chen**, <a href='https://scholar.google.com/citations?user=ZTxkDr4AAAAJ&hl=en'>Zehao Li</a>, <a href='https://scholar.google.com/citations?user=TE7lbQwAAAAJ&hl=en'>Yujun Cai</a>, Hao Jiang, <a href='https://scholar.google.com/citations?user=DZDZXtwAAAAJ&hl=zh-CN'>Chengxuan Qian</a>, Juyuan Kang, Shuqin Gao, Honglong Zhao, Tianlu Mao, Yucheng Zhang
 
 [<a href='https://arxiv.org/pdf/2506.09518'>paper</a>] [<a href='https://arxiv.org/abs/2506.09518'>arXiv</a>] [<a href='https://arxiv.org/abs/2506.09518'>page</a>]
 </div>
@@ -49,7 +49,7 @@ Hi! I'm a CS Master's student at the <a href='https://www.ict.ac.cn/'>Institute 
 
 **<a href='https://arxiv.org/pdf/2510.02732' style="color: #262626; text-decoration: none;">From Tokens to Nodes: Semantic-Guided Motion Control for Dynamic 3D Gaussian Splatting</a>**
 
-**Jianing Chen**\*, Zehao Li\*, Yujun Cai, Hao Jiang, Shuqin Gao, Honglong Zhao, Tianlu Mao, Yucheng Zhang
+**Jianing Chen**\*, <a href='https://scholar.google.com/citations?user=ZTxkDr4AAAAJ&hl=en'>Zehao Li</a>\*, <a href='https://scholar.google.com/citations?user=TE7lbQwAAAAJ&hl=en'>Yujun Cai</a>, Hao Jiang, Shuqin Gao, Honglong Zhao, Tianlu Mao, Yucheng Zhang
 
 [<a href='https://arxiv.org/pdf/2510.02732'>paper</a>] [<a href='https://arxiv.org/abs/2510.02732'>arXiv</a>] 
 <!-- [<a href='https://arxiv.org/abs/2506.09518'>page</a>] -->
@@ -75,9 +75,9 @@ Hi! I'm a CS Master's student at the <a href='https://www.ict.ac.cn/'>Institute 
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
-# 
 
-<div style="height:180px;">
+
+<!-- <div style="height:180px;">
   <div style="
   width:100%;
   display:flex;
@@ -89,7 +89,8 @@ Hi! I'm a CS Master's student at the <a href='https://www.ict.ac.cn/'>Institute 
     </script>
   </div>
 </div>
-</div>
+</div> -->
+
 
 <!-- <div style="
   width:200px;
@@ -103,3 +104,11 @@ Hi! I'm a CS Master's student at the <a href='https://www.ict.ac.cn/'>Institute 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=wtj1UfeAzDOm5LDbzaT_JEjsvSbcsmVjNP6ywgF9joE&cl=ffffff&w=a"></script>
 </div>
 </div> -->
+
+<div style="text-align:center;">
+  <div style="display:inline-block; transform:scale(0.5); transform-origin:center center;">
+    <script type="text/javascript" id="clustrmaps"
+      src="//clustrmaps.com/map_v2.js?d=wtj1UfeAzDOm5LDbzaT_JEjsvSbcsmVjNP6ywgF9joE&cl=ffffff&w=a">
+    </script>
+  </div>
+</div>
