@@ -75,8 +75,23 @@ Hi! I'm a CS Master's student at the <a href='https://www.ict.ac.cn/'>Institute 
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
-#
-<div style="
+# 
+
+<div style="height:180px;">
+  <div style="
+  width:100%;
+  display:flex;
+  justify-content:center;
+  align-items:center;">
+  <div style="transform:scale(0.5); transform-origin:center center;">
+    <script type="text/javascript" id="clustrmaps"
+      src="//clustrmaps.com/map_v2.js?d=wtj1UfeAzDOm5LDbzaT_JEjsvSbcsmVjNP6ywgF9joE&cl=ffffff&w=a">
+    </script>
+  </div>
+</div>
+</div>
+
+<!-- <div style="
   width:200px;
   height:150px;
   display:flex;
@@ -87,4 +102,4 @@ Hi! I'm a CS Master's student at the <a href='https://www.ict.ac.cn/'>Institute 
 <div style="transform:scale(0.6); transform-origin:center center;">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=wtj1UfeAzDOm5LDbzaT_JEjsvSbcsmVjNP6ywgF9joE&cl=ffffff&w=a"></script>
 </div>
-</div>
+</div> -->
