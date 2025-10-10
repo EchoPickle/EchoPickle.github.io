@@ -41,6 +41,7 @@ Hi! I'm a CS Master's student at the <a href='https://www.ict.ac.cn/'>Institute 
 
 [<a href='https://arxiv.org/pdf/2506.09518'>paper</a>] [<a href='https://arxiv.org/abs/2506.09518'>arXiv</a>] [<a href='https://arxiv.org/abs/2506.09518'>page</a>]
 </div>
+</div>
 
 <!-- Paper2 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/F2N.png' alt="sym" width="100%"></div></div>
@@ -54,7 +55,7 @@ Hi! I'm a CS Master's student at the <a href='https://www.ict.ac.cn/'>Institute 
 <!-- [<a href='https://arxiv.org/abs/2506.09518'>page</a>] -->
 
 <!-- [**Project**](https://arxiv.org/abs/2506.09518) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-
+</div>
 </div>
 
 
@@ -74,5 +75,6 @@ Hi! I'm a CS Master's student at the <a href='https://www.ict.ac.cn/'>Institute 
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
-
+<div>
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=wtj1UfeAzDOm5LDbzaT_JEjsvSbcsmVjNP6ywgF9joE&cl=ffffff&w=a"></script>
+</div>
