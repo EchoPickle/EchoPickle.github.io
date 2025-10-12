@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "JianingChen (陈佳宁)"
-  avatar           : "images/photo.png"
+  avatar           : "images/photo.jpg"
   bio              : "🎓 CS @ ICT"
   location         : "Beijing, China"
   employer         :
