@@ -39,7 +39,7 @@ Hi! I'm a CS Master's student at the <a href='https://www.ict.ac.cn/'>Institute 
 
 **Jianing Chen**, <a href='https://scholar.google.com/citations?user=ZTxkDr4AAAAJ&hl=en'>Zehao Li</a>, <a href='https://scholar.google.com/citations?user=TE7lbQwAAAAJ&hl=en'>Yujun Cai</a>, Hao Jiang, Chengxuan Qian, Juyuan Kang, Shuqin Gao, Honglong Zhao, Tianlu Mao, Yucheng Zhang
 
-[<a href='https://arxiv.org/pdf/2506.09518'>paper</a>] [<a href='https://arxiv.org/abs/2506.09518'>arXiv</a>] [<a href='https://echopickle.github.io/HAIF-GS/'>page</a>]
+[<a href='https://arxiv.org/pdf/2506.09518'>paper</a>] [<a href='https://arxiv.org/abs/2506.09518'>arXiv</a>] [<a href='https://echopickle.github.io/HAIF-GS.github.io/'>page</a>]
 </div>
 </div>
 
