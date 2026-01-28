@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm a CS Master's student at the <a href='https://www.ict.ac.cn/'>Institute of Computing Technology, Chinese Academy of Sciences</a> (<img src="images/ict_logo.png" style="width:1em;height:1em;vertical-align:middle;">&nbsp;ICT, CAS), supervised by <a href='https://people.ucas.ac.cn/~jiangh'>Prof. Hao Jiang</a> and <a href='https://people.ucas.ac.cn/~zhangyucheng'>Prof. Yucheng Zhang</a>. I'm also fortunate to work closely with <a href='https://vanoracai.github.io/'>Prof. Yujun Cai</a>. My research interest includes <strong>3D Vision</strong> and <strong>Vision-Language Models</strong>. I have published 1 paper <a href='https://scholar.google.com/citations?user=5LrKbhcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS.
+Hi! I'm a CS Master's student at the <a href='https://www.ict.ac.cn/'>Institute of Computing Technology, Chinese Academy of Sciences</a> (<img src="images/ict_logo.png" style="width:1em;height:1em;vertical-align:middle;">&nbsp;ICT, CAS), supervised by <a href='https://people.ucas.ac.cn/~jiangh'>Prof. Hao Jiang</a> and <a href='https://people.ucas.ac.cn/~zhangyucheng'>Prof. Yucheng Zhang</a>. I'm also fortunate to work closely with <a href='https://vanoracai.github.io/'>Prof. Yujun Cai</a>. My research interest includes <strong>3D Vision</strong> and <strong>Vision-Language Models</strong>. I have published 2 paper <a href='https://scholar.google.com/citations?user=5LrKbhcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS, ICLR.
 
 <span style="color: #8a3684;">I'm currently seeking a CS PhD position for Fall 2026. Please refer to my **<a href='https://drive.google.com/file/d/1_a_QKX3Q0MmfHx4pwrYt7lXzaVb7w2dP/view?usp=sharing' style="color: #f5a13d; text-decoration: underline;">CV</a>** for more details.</span>
 
@@ -25,9 +25,10 @@ Hi! I'm a CS Master's student at the <a href='https://www.ict.ac.cn/'>Institute 
 
 # 📣 News
 <!-- - 2025.09: &nbsp;🎉🎉 Start my homepage!  -->
-- **[2025.10]** **<span style="color: #8a3684;">Preprint</span>**&nbsp;&nbsp;Our new work on dynamic 3DGS using VFMs, "<a href='https://arxiv.org/pdf/2510.02732'>From Tokens to Nodes: Semantic-Guided Motion Control for Dynamic 3D Gaussian Splatting</a>," is now available on arXiv.
-- **[2025.09]** **<span style="color: #f5a13d;">NeurIPS'25</span>**&nbsp;&nbsp;Our paper, "<a href='https://arxiv.org/pdf/2506.09518'>HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene</a>," was accepted to NeurIPS 2025!
-- **[2025.06]** **<span style="color: #8a3684;">Preprint</span>**&nbsp;&nbsp;Our new work on dynamic 3D reconstruction, "<a href='https://arxiv.org/pdf/2505.22400'>STDR: Spatio-Temporal Decoupling for Real-Time Dynamic Scene Rendering</a>," is now available on arXiv.
+- **[2026.01]** **<span style="color: #f5a13d;">ICLR'26</span>**&nbsp;&nbsp;Our paper <a href='https://arxiv.org/pdf/2510.02732'>T2N</a> was accepted to ICLR 2026!
+- **[2025.10]** **<span style="color: #8a3684;">Preprint</span>**&nbsp;&nbsp;Our new work on dynamic 3DGS using VFMs <a href='https://arxiv.org/pdf/2510.02732'>T2N</a> is now available on arXiv.
+- **[2025.09]** **<span style="color: #f5a13d;">NeurIPS'25</span>**&nbsp;&nbsp;Our paper <a href='https://arxiv.org/pdf/2506.09518'>HAIF-GS</a> was accepted to NeurIPS 2025!
+- **[2025.06]** **<span style="color: #8a3684;">Preprint</span>**&nbsp;&nbsp;Our new work on dynamic 3D reconstruction <a href='https://arxiv.org/pdf/2505.22400'>STDR</a> is now available on arXiv.
 
 # 📑 Publications 
 
@@ -44,7 +45,7 @@ Hi! I'm a CS Master's student at the <a href='https://www.ict.ac.cn/'>Institute 
 </div>
 
 <!-- Paper2 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/F2N.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/F2N.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **<a href='https://arxiv.org/pdf/2510.02732' style="color: #262626; text-decoration: none;">From Tokens to Nodes: Semantic-Guided Motion Control for Dynamic 3D Gaussian Splatting</a>**
