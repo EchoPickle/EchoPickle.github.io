@@ -68,7 +68,6 @@ Hi! I'm a CS Master's student at the <a href='https://www.ict.ac.cn/'>Institute 
 # 🎓 Educations
 - 2023.09 - 2026.06 (now), Master, Institute of Computing Technology, Chinese Academy of Sciences, Beijing. 
 - 2019.09 - 2023.06, Undergraduate, China University of Geosciences (Beijing), Beijing.
-- 2016.09 - 2019.06, Ningbo Xiaoshi High School, Ningbo, Zhejiang.
 
 # 🏷️ Services
 - Reviewer of `ICLR`, `CVPR`.
