@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm a CS Master's student at the <a href='https://www.ict.ac.cn/'>Institute of Computing Technology, Chinese Academy of Sciences</a> (<img src="images/ict_logo.png" style="width:1em;height:1em;vertical-align:middle;">&nbsp;ICT, CAS), supervised by <a href='https://people.ucas.ac.cn/~jiangh'>Prof. Hao Jiang</a> and <a href='https://people.ucas.ac.cn/~zhangyucheng'>Prof. Yucheng Zhang</a>. I'm also fortunate to work closely with <a href='https://vanoracai.github.io/'>Prof. Yujun Cai</a>. My research interest includes <strong>3D Vision</strong> and <strong>Vision-Language Models</strong>. I have published 2 papers <a href='https://scholar.google.com/citations?user=5LrKbhcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS, ICLR.
+Hi! I'm a CS Master's student at the <a href='https://www.ict.ac.cn/'>Institute of Computing Technology, Chinese Academy of Sciences</a> (<img src="images/ict_logo.png" style="width:1em;height:1em;vertical-align:middle;">&nbsp;ICT, CAS). I'm a member of <a href='https://ict.cas.cn/jssgk/zzjg/kyxt/qzyjsys/js/'>Laboratory for Advanced Study</a>, supervised by <a href='https://people.ucas.ac.cn/~jiangh'>Prof. Hao Jiang</a> and <a href='https://people.ucas.ac.cn/~zhangyucheng'>Prof. Yucheng Zhang</a>. I'm also fortunate to work closely with <a href='https://vanoracai.github.io/'>Prof. Yujun Cai</a>. My research interest includes <strong>3D Vision</strong> and <strong>Vision-Language Models</strong>. I have published 2 papers <a href='https://scholar.google.com/citations?user=5LrKbhcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS, ICLR.
 
 <span style="color: #8a3684;">I'm currently seeking a CS PhD position for Fall 2026. Please refer to my **<a href='https://drive.google.com/file/d/1jdHsfJaW1sIlOHJc5SHqNnW20HLx1uKF/view?usp=sharing' style="color: #f5a13d; text-decoration: underline;">CV</a>** for more details.</span>
 
@@ -70,7 +70,7 @@ Hi! I'm a CS Master's student at the <a href='https://www.ict.ac.cn/'>Institute 
 - 2019.09 - 2023.06, Undergraduate, China University of Geosciences (Beijing), Beijing.
 
 # 🏷️ Services
-- Reviewer of `ICLR`, `CVPR`.
+- Reviewer of `ICLR`, `CVPR`, `ECCV`.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
