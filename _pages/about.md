@@ -119,9 +119,9 @@ Hi! I’m a first-year Ph.D. student at the <a href='https://www.polyu.edu.hk/co
 <hr>
 <div>
 <center>
-  <b>Site Analytics</b> (since Oct. 2025)<br>
-  <script type="text/javascript" id="clustrmaps"
-    src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=wtj1UfeAzDOm5LDbzaT_JEjsvSbcsmVjNP6ywgF9joE&co=2c3e50">
+  <b>Site Analytics</b> (since Sep. 2026)<br>
+  <script type="text/javascript" id="mapmyvisitors"
+    src="//mapmyvisitors.com/map.js?d=zT1Bkvv9WyrRI9T7o2Hyv6xsUGEh6aIo0Uxde1-fwOQ&cl=ffffff&w=a">
   </script>
 </center>
 </div>
