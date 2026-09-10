@@ -65,7 +65,7 @@ Hi! I’m a first-year Ph.D. student at the <a href='https://www.polyu.edu.hk/co
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 🎓 Educations
+# 🎓 Education
 - 2026.09 - Present, PhD Student, The Hong Kong Polytechnic University, Hong Kong.
 - 2023.09 - 2026.06, Master, Institute of Computing Technology, Chinese Academy of Sciences, Beijing. 
 - 2019.09 - 2023.06, Undergraduate, China University of Geosciences (Beijing), Beijing.
