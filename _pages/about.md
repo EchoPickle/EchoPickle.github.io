@@ -70,7 +70,7 @@ Hi! I’m a first-year Ph.D. student at the <a href='https://www.polyu.edu.hk/co
 - 2019.09 - 2023.06, Undergraduate, China University of Geosciences (Beijing), Beijing.
 
 # 🏷️ Services
-- Reviewer of `ICLR`, `CVPR`, `ECCV`.
+- Reviewer of `ICLR`, `CVPR`, `ECCV`, `NeurIPS`.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -121,7 +121,7 @@ Hi! I’m a first-year Ph.D. student at the <a href='https://www.polyu.edu.hk/co
 <center>
   <b>Site Analytics</b> (since Sep. 2026)<br>
   <script type="text/javascript" id="mapmyvisitors"
-    src="//mapmyvisitors.com/map.js?d=zT1Bkvv9WyrRI9T7o2Hyv6xsUGEh6aIo0Uxde1-fwOQ&cl=ffffff&w=a">
+    src="//mapmyvisitors.com/map.js?d=zT1Bkvv9WyrRI9T7o2Hyv6xsUGEh6aIo0Uxde1-fwOQ&cl=ffffff&w=400">
   </script>
 </center>
 </div>
